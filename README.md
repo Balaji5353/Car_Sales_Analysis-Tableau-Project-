@@ -1,5 +1,5 @@
 # Car_Sales_Analysis-Tableau-Project-
-# 🚗 Car Sales Dashboard  
+# 🚗 Car Sales Analysis 
 
 ## 📌 Project Overview  
 This project analyzes **Year-to-Date (YTD) Car Sales** using an interactive dashboard.  
