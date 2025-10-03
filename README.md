@@ -1,5 +1,8 @@
 # 🚗 Car_Sales_Analysis-Tableau-Project-By Balaji Raut
- 
+
+## 🌐 Project Links
+- **Live Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/shared/QCRRBS2DZ?:display_count=n&:origin=viz_share_link)
+---
 
 ## 📌 Project Overview  
 This project analyzes **Year-to-Date (YTD) Car Sales** using an interactive dashboard.  
@@ -38,6 +41,10 @@ The goal is to help stakeholders **identify growth drivers, weak areas, and oppo
 - **Luxury brands (Audi, Acura)** contribute less than 2.5% of total sales.  
 
 ---
+
+## 📷 Visuals
+
+- **Dashboard Overview**
 
 ## 📖 Storytelling  
 
