@@ -45,7 +45,8 @@ The goal is to help stakeholders **identify growth drivers, weak areas, and oppo
 ## 📷 Visuals
 
 - **Dashboard Overview**
-
+![Image](https://github.com/user-attachments/assets/e3b1d513-6da8-4bd5-af56-69d018be4712)
+---
 ## 📖 Storytelling  
 
 ### 🏆 Top Story  
